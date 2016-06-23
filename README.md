@@ -12,14 +12,14 @@ First install the two required dependencies:
 
 Now install ngless:
 
-    brew tap luispedro/ngless-brew
+    brew tap luispedro/ngless
     brew install ngless
 
 This should download the brew formula and build ngless.
 
 If you prefer, you can also first clone the repository:
 
-    git clone https://github.com/luispedro/ngless-brew
-    cd ngless-brew
+    git clone https://github.com/luispedro/homebrew-ngless
+    cd homebrew-ngless
     # inspect the ngless.rb file if you wish
     brew install ngless.rb

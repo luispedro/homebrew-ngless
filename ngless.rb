@@ -5,8 +5,8 @@ class Ngless < Formula
 
   desc "Domain Specific Language for NGS Processing"
   homepage "http://ngless.readthedocs.io/"
-  url "https://github.com/luispedro/ngless/archive/7ca531c752fb88f8a0df3dc2c86d979d09e10e87.zip"
-  sha256 "b928c514acf38ac41b6b0d2c783e1969930778450cfceecaae9623416a19055b"
+  url "https://github.com/luispedro/ngless/archive/68e5a7782a0f33c5d443ffb9c610788bd21d7e53.zip"
+  sha256 "c83fb2b82545389704740ec51a20f02180339d17bf08e027346a79b7e2278989"
   version "0.0.0"
 
   head "https://github.com/luispedro/ngless.git"
